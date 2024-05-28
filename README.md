@@ -11,11 +11,11 @@ Here, you can find my projects as well as my university assignments.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 🔥 [Swift Actors — Common Problems and Tips](https://alexdremov.me/swift-actors-common-problems-and-tips/?utm_medium=alexroar_readme&utm_source=github)
- - 🌮 [I Contributed to PyTorch. Here&#39;s What I Learned](https://alexdremov.me/i-contributed-to-pytorch-heres-what-i-learned/?utm_medium=alexroar_readme&utm_source=github)
- - 🔥 [Conquer Data Races with Swift Actors](https://alexdremov.me/conquer-data-races-with-swift-actors/?utm_medium=alexroar_readme&utm_source=github)
- - 🚀 [Dive into Swift&#39;s Memory Management](https://alexdremov.me/dive-into-swifts-memory-management/?utm_medium=alexroar_readme&utm_source=github)
- - ❤️ [Data Binding in SwiftUI: Tips, Tricks, and Best Practices](https://alexdremov.me/data-binding-in-swiftui-tips-tricks-and-best-practices/?utm_medium=alexroar_readme&utm_source=github)<!-- BLOG-POST-LIST:END -->
+ - 🔥 [Simple Ways to Speed Up Your PyTorch Model Training](https://alexdremov.me/simple-ways-to-speedup-your-pytorch-model-training/?utm_medium=alexroar_readme&utm_source=github)
+ - 🌮 [Swift Actors — Common Problems and Tips](https://alexdremov.me/swift-actors-common-problems-and-tips/?utm_medium=alexroar_readme&utm_source=github)
+ - 🔥 [I Contributed to PyTorch. Here&#39;s What I Learned](https://alexdremov.me/i-contributed-to-pytorch-heres-what-i-learned/?utm_medium=alexroar_readme&utm_source=github)
+ - 🚀 [Conquer Data Races with Swift Actors](https://alexdremov.me/conquer-data-races-with-swift-actors/?utm_medium=alexroar_readme&utm_source=github)
+ - ❤️ [Dive into Swift&#39;s Memory Management](https://alexdremov.me/dive-into-swifts-memory-management/?utm_medium=alexroar_readme&utm_source=github)<!-- BLOG-POST-LIST:END -->
 
 ## Contacts
 <table>

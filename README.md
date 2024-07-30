@@ -3,7 +3,7 @@ Hi, Alex 👌<br>
 
 Here, you can find my projects as well as my university assignments.
 
-📚 [**MIPT DIHT**](https://mipt.ru/english/edu/phystechschools/psami) alumnus in Informatics and Computational Technologies.
+📚 [**MIPT alumnus**](https://mipt.ru/english/edu/phystechschools/psami) — graduated with honors in PSAMI Informatics and Computational Technologies.
 
 - 🥇 **2021 RZD CODE hackathon winner**
 - 🥇 **2019 Google Science Fair national finalist**

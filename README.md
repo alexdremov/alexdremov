@@ -1,13 +1,7 @@
 Hi, Alex 👌<br>
 [alexdremov.me](https://alexdremov.me?utm_source=github&utm_medium=readmeme)
 
-Here, you can find my projects as well as my university assignments.
-
-📚 [**MIPT alumnus**](https://mipt.ru/english/edu/phystechschools/psami) — graduated with honors in PSAMI Informatics and Computational Technologies.
-
-- 🥇 **2021 RZD CODE hackathon winner**
-- 🥇 **2019 Google Science Fair national finalist**
-- 🥇 **2018 Worldskills National Winner** as drone operator
+📚 [**MIPT alumnus**](https://eng.mipt.ru/why-mipt/#applied-mathematics-and-informatics) — graduated with honors in PSAMI Informatics and Computational Technologies.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->

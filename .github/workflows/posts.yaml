@@ -11,9 +11,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Pull posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          user_agent: ${{ secrets.RSS_USER_AGENT }}
-          feed_list: "https://alexdremov.me/rss/"
-          template: "$newline - $randomEmoji(🔥,💫,🚀,🌮,✨,❤️) [$title]($url?utm_medium=alexroar_readme&utm_source=github)"
+      # - name: Pull posts
+      #   uses: gautamkrishnar/blog-post-workflow@v1
+      #   with:
+      #     user_agent: ${{ secrets.RSS_USER_AGENT }}
+      #     feed_list: "https://alexdremov.me/rss/"
+      #     template: "$newline - $randomEmoji(🔥,💫,🚀,🌮,✨,❤️) [$title]($url?utm_medium=alexroar_readme&utm_source=github)"

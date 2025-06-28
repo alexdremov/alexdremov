@@ -1,9 +1,9 @@
-<img  align="right" src="https://camo.githubusercontent.com/30c8c3aa800200a934fa4bdd132589ab7761ba365633154a23d2b1ea21d23515/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616c65786472656d6f76" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=alexdremov" style="max-width: 100%;">
-
 Hi, Alex 👌<br>
 [alexdremov.me](https://alexdremov.me?utm_source=github&utm_medium=readmeme)
 
 📚 [**MIPT alumnus**](https://eng.mipt.ru/why-mipt/#applied-mathematics-and-informatics) — graduated with honors in PSAMI Informatics and Computational Technologies.
+
+🇨🇭 [**EPFL student**](https://www.epfl.ch/education/master/programs/data-science/) — current Master's in Data Science student
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->

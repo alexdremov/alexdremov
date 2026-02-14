@@ -5,6 +5,12 @@ Hi, Alex 👌<br>
 
 🇨🇭 [**EPFL student**](https://www.epfl.ch/education/master/programs/data-science/) — current Master's in Data Science student
 
+## Publications
+- [**Compute-Optimal Quantization-Aware Training**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P_O2dWEAAAAJ&citation_for_view=P_O2dWEAAAAJ:u-x6o8ySG0sC) — Aleksandr Dremov, David Grangier, Angelos Katharopoulos, Awni Hannun<br>
+ICLR 2026
+- [**Training dynamics of the cooldown stage in warmup-stable-decay learning rate scheduler**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P_O2dWEAAAAJ&citation_for_view=P_O2dWEAAAAJ:u5HHmVD_uO8C) — Aleksandr Dremov, Alexander Hägele, Atli Kosson, Martin Jaggi<br>
+TMLR, J2C Certification (ICLR 2026)
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
  - 🔥 [Understanding Flash Attention: Writing the Algorithm from Scratch in Triton](https://alexdremov.me/understanding-flash-attention-writing-the-algorithm-from-scratch-in-triton/?utm_medium=alexroar_readme&utm_source=github)

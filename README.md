@@ -13,11 +13,11 @@ TMLR, J2C Certification (ICLR 2026)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 🔥 [Rethinking Quantization-Aware Training: Why Your QAT Length is Probably Wrong](https://alexdremov.me/rethinking-quantization-aware-training-why-your-qat-length-is-probably-wrong/?utm_medium=alexroar_readme&utm_source=github)
- - 🌮 [Understanding Flash Attention: Writing the Algorithm from Scratch in Triton](https://alexdremov.me/understanding-flash-attention-writing-the-algorithm-from-scratch-in-triton/?utm_medium=alexroar_readme&utm_source=github)
- - 🔥 [Speed Up PyTorch With Custom Kernels. But It Gets Progressively Darker](https://alexdremov.me/speed-up-pytorch-with-custom-kernels-but-it-gets-progressively-darker/?utm_medium=alexroar_readme&utm_source=github)
- - 🚀 [Simple Ways to Speed Up Your PyTorch Model Training](https://alexdremov.me/simple-ways-to-speedup-your-pytorch-model-training/?utm_medium=alexroar_readme&utm_source=github)
- - ❤️ [Swift Actors — Common Problems and Tips](https://alexdremov.me/swift-actors-common-problems-and-tips/?utm_medium=alexroar_readme&utm_source=github)<!-- BLOG-POST-LIST:END -->
+ - 🔥 [Managing Thousands of DL Experiments and Staying Sane](https://alexdremov.me/managing-thousands-of-dl-experiments-and-staying-sane/?utm_medium=alexroar_readme&utm_source=github)
+ - 🌮 [Rethinking Quantization-Aware Training: Why Your QAT Length is Probably Wrong](https://alexdremov.me/rethinking-quantization-aware-training-why-your-qat-length-is-probably-wrong/?utm_medium=alexroar_readme&utm_source=github)
+ - 🔥 [Understanding Flash Attention: Writing the Algorithm from Scratch in Triton](https://alexdremov.me/understanding-flash-attention-writing-the-algorithm-from-scratch-in-triton/?utm_medium=alexroar_readme&utm_source=github)
+ - 🚀 [Speed Up PyTorch With Custom Kernels. But It Gets Progressively Darker](https://alexdremov.me/speed-up-pytorch-with-custom-kernels-but-it-gets-progressively-darker/?utm_medium=alexroar_readme&utm_source=github)
+ - ❤️ [Simple Ways to Speed Up Your PyTorch Model Training](https://alexdremov.me/simple-ways-to-speedup-your-pytorch-model-training/?utm_medium=alexroar_readme&utm_source=github)<!-- BLOG-POST-LIST:END -->
 
 ## Contacts
 <table>
